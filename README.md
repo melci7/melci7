@@ -1,7 +1,7 @@
 <h1>Hello, I'm Muhammed</h1> 
   I'm a front-end developer.
   <br></br>
-  I enjoy bringing ideas to life with code and design. I'm always on the lookout for new skills to pick up, especially through building projects. I have a keen interest in both the software development world and UX/UI design, constantly learning and applying new ideas in my work.
+  I code to solve problems and build useful things. Learning new skills through projects keeps me motivated. My focus is on software development, where I work on adapting to the evolving tech landscape. Continuously working to improve my craft and expand my knowledge.
 
 
 <br></br>
@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="react logo"  />
   
   
