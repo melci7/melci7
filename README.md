@@ -32,11 +32,9 @@
   <h4>Styling and design:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/vector-logo/519786/shadcn-ui" height="40" alt="sass logo"  />
+  <img src="https://lucide.dev/library-logos/shadcn-ui-light.svg" height="40" width="100" alt="sass logo"  />
   <img width="12" />
 
 
